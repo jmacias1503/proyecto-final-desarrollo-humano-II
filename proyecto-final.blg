@@ -1,9 +1,0 @@
-[0] Config.pm:307> INFO - This is Biber 2.19
-[0] Config.pm:310> INFO - Logfile is 'proyecto-final.blg'
-[130] biber:340> INFO - === Sat May  4, 2024, 09:16:19
-[290] Biber.pm:419> INFO - Reading 'proyecto-final.bcf'
-[384] Biber.pm:979> INFO - Found 0 citekeys in bib section 0
-[454] bbl.pm:660> INFO - Writing 'proyecto-final.bbl' with encoding 'UTF-8'
-[454] bbl.pm:763> INFO - Output to proyecto-final.bbl
-[455] Biber.pm:131> WARN - The file 'proyecto-final.bcf' does not contain any citations!
-[455] Biber.pm:133> INFO - WARNINGS: 1
