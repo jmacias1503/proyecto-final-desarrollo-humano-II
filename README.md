@@ -13,6 +13,7 @@
 |            | Tecnicas e instrumentos de investigacion | Nose               |
 |            | Recopilacion de datos                    | Nose               |
 |            | Presentacion de resultados y conclusion  | Paola P.           |
+|            | Anexos                                   | David              |
 |            | Power Point                              | Paola V. y Mich    |
 |            | Podcast                                  | Cesar, Josh y Mike |
 
