@@ -5,7 +5,7 @@
 |            | Introduccion                             | Blanca             |
 |            | Planteamiento del problema               | Nose               |
 |            | Objetivo general y particular            | Mateo              |
-|            | Justificacion                            | Nose               |
+| X          | Justificacion                            | Marco Antonio      |
 |            | Hipotesis                                | Nose               |
 | X          | Marco teorico                            | Zamorano           |
 |            | Metodologia de la investigacion          | Alexis             |
