@@ -7,7 +7,7 @@
 |            | Objetivo general y particular            | Mateo              |
 |            | Justificacion                            | Nose               |
 |            | Hipotesis                                | Nose               |
-|            | Marco teorico                            | Zamorano           |
+| X          | Marco teorico                            | Zamorano           |
 |            | Metodologia de la investigacion          | Alexis             |
 |            | Poblacion y muestra                      | Nose               |
 |            | Tecnicas e instrumentos de investigacion | Nose               |
