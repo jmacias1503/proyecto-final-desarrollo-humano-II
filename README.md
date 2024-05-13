@@ -4,7 +4,7 @@
 |------------|------------------------------------------|--------------------|
 |            | Introduccion                             | Blanca             |
 |            | Planteamiento del problema               | Nose               |
-|            | Objetivo general y particular            | Mateo              |
+| X          | Objetivo general y particular            | Mateo              |
 | X          | Justificacion                            | Marco Antonio      |
 |            | Hipotesis                                | Nose               |
 | X          | Marco teorico                            | Zamorano           |
