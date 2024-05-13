@@ -6,7 +6,7 @@
 |            | Planteamiento del problema               | Nose               |
 | X          | Objetivo general y particular            | Mateo              |
 | X          | Justificacion                            | Marco Antonio      |
-|            | Hipotesis                                | Nose               |
+|            | Hipotesis                                | Gabo               |
 | X          | Marco teorico                            | Zamorano           |
 |            | Metodologia de la investigacion          | Alexis             |
 |            | Poblacion y muestra                      | Nose               |
