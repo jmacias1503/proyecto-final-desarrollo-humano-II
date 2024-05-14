@@ -1,21 +1,22 @@
 # Partes del articulo
 
-| Completado | Parte                                    | Responsable        |
-|------------|------------------------------------------|--------------------|
-|            | Introduccion                             | Blanca             |
-|            | Planteamiento del problema               | Nose               |
-| X          | Objetivo general y particular            | Mateo              |
-| X          | Justificacion                            | Marco Antonio      |
-|            | Hipotesis                                | Gabo               |
-| X          | Marco teorico                            | Zamorano           |
-|            | Metodologia de la investigacion          | Alexis             |
-|            | Poblacion y muestra                      | Nose               |
-|            | Tecnicas e instrumentos de investigacion | Nose               |
-|            | Recopilacion de datos                    | Nose               |
-|            | Presentacion de resultados y conclusion  | Paola P.           |
-|            | Anexos                                   | David              |
-|            | Power Point                              | Paola V. y Mich    |
-|            | Podcast                                  | Cesar, Josh y Mike |
+| Completado | Parte                                                   | Responsable        |
+|------------|---------------------------------------------------------|--------------------|
+|            | Introduccion                                            | Blanca             |
+|            | Planteamiento del problema y Preguntas de investigacion | David Emmanuel     |
+| X          | Objetivo general y particular                           | Mateo              |
+| X          | Justificacion                                           | Marco Antonio      |
+|            | Hipotesis                                               | Gabo               |
+| X          | Marco teorico                                           | Zamorano           |
+|            | Metodologia de la investigacion                         | Alexis             |
+|            | Poblacion y muestra                                     | Cavani             |
+|            | Tecnicas e instrumentos de investigacion                | Servin y Josue     |
+|            | Recopilacion de datos                                   | Toys               |
+|            | Analisis de resultados                                  | Alison             |
+|            | Presentacion de resultados y conclusion                 | Paola P.           |
+|            | Anexos y bibliografia                                   | David              |
+|            | Power Point                                             | Paola V. y Mich    |
+|            | Podcast                                                 | Cesar, Josh y Mike |
 
 # Para los que si se van a poner pilas con github
 Tan sencillos los comandos.
