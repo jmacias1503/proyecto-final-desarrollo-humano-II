@@ -6,7 +6,7 @@
 |            | Planteamiento del problema y Preguntas de investigacion | David Emmanuel     |
 | X          | Objetivo general y particular                           | Mateo              |
 | X          | Justificacion                                           | Marco Antonio      |
-|            | Hipotesis                                               | Gabo               |
+| X          | Hipotesis                                               | Gabo               |
 | X          | Marco teorico                                           | Zamorano           |
 |            | Metodologia de la investigacion                         | Alexis             |
 |            | Poblacion y muestra                                     | Cavani             |
