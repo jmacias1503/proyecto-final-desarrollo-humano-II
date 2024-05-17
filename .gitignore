@@ -11,3 +11,5 @@
 *.toc
 *.bcf-SAVE-ERROR
 *.ttt
+*.lof
+*.lot
