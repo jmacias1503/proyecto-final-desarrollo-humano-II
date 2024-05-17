@@ -2,14 +2,14 @@
 
 | Completado | Parte                                                   | Responsable         |
 |------------|---------------------------------------------------------|---------------------|
-|            | Introduccion                                            | Blanca              |
+| X          | Introduccion                                            | Blanca              |
 |            | Planteamiento del problema y Preguntas de investigacion | David Emmanuel      |
 | X          | Objetivo general y particular                           | Mateo               |
 | X          | Justificacion                                           | Marco Antonio       |
 | X          | Hipotesis                                               | Gabo                |
 | X          | Marco teorico                                           | Zamorano            |
-|            | Metodologia de la investigacion                         | Alexis y Cristopher |
-|            | Poblacion y muestra                                     | Cavani              |
+| X          | Metodologia de la investigacion                         | Alexis y Cristopher |
+| X          | Poblacion y muestra                                     | Cavani              |
 |            | Tecnicas e instrumentos de investigacion                | Servin y Josue      |
 |            | Recopilacion de datos                                   | Toys                |
 |            | Analisis de resultados                                  | Alison              |
