@@ -3,20 +3,20 @@
 | Completado | Parte                                                   | Responsable         |
 |------------|---------------------------------------------------------|---------------------|
 | X          | Introduccion                                            | Blanca              |
-|            | Planteamiento del problema y Preguntas de investigacion | David Emmanuel      |
+| X          | Planteamiento del problema y Preguntas de investigacion | David Emmanuel      |
 | X          | Objetivo general y particular                           | Mateo               |
 | X          | Justificacion                                           | Marco Antonio       |
 | X          | Hipotesis                                               | Gabo                |
 | X          | Marco teorico                                           | Zamorano            |
 | X          | Metodologia de la investigacion                         | Alexis y Cristopher |
 | X          | Poblacion y muestra                                     | Cavani              |
-|            | Tecnicas e instrumentos de investigacion                | Servin y Josue      |
-|            | Recopilacion de datos                                   | Toys                |
-|            | Analisis de resultados                                  | Alison              |
-|            | Presentacion de resultados y conclusion                 | Paola P.            |
+| X          | Tecnicas e instrumentos de investigacion                | Servin y Josue      |
+| X          | Recopilacion de datos                                   | Toys                |
+| X          | Analisis de resultados                                  | Alison              |
+| X          | Presentacion de resultados y conclusion                 | Paola P.            |
 |            | Anexos y bibliografia                                   | David               |
-|            | Power Point                                             | Paola V. y Mich     |
-|            | Podcast                                                 | Cesar, Josh y Mike  |
+| X          | Power Point                                             | Paola V. y Mich     |
+| X          | Podcast                                                 | Cesar, Josh y Mike  |
 
 # Para los que si se van a poner pilas con github
 Tan sencillos los comandos.
