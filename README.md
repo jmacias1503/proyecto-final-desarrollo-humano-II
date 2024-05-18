@@ -14,7 +14,7 @@
 | X          | Recopilacion de datos                                   | Toys                |
 | X          | Analisis de resultados                                  | Alison              |
 | X          | Presentacion de resultados y conclusion                 | Paola P.            |
-|            | Anexos y bibliografia                                   | David               |
+| XXX        | Anexos y bibliografia                                   | David               |
 | X          | Power Point                                             | Paola V. y Mich     |
 | X          | Podcast                                                 | Cesar, Josh y Mike  |
 
